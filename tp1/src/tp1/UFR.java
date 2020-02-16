@@ -2,8 +2,8 @@ package tp1;
 
 public class UFR {
 
-	public UFR() {
-		// TODO Auto-generated constructor stub
-	}
+public static void main(String[] args) {
+	
+}
 
 }
